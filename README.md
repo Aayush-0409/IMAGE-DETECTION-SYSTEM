@@ -38,6 +38,6 @@ pip install -r requirements.txt
 
 
 ```bash
-git clone https://github.com/Aayush-0409/image-recognition-app.git
-cd image-recognition-app
+git clone https://github.com/Aayush-0409/IMAGE-DETECTION-SYSTEM.git
+cd IMAGE-DETECTION-SYSTEM
 
