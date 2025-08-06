@@ -33,7 +33,7 @@ venv\Scripts\activate
 
 pip install -r requirements.txt
 
-### 1️⃣ Clone the repository
+###  Clone the repository
 
 
 
