@@ -1,0 +1,7 @@
+Python 3.7+
+
+TensorFlow 2.x
+
+Flask
+
+OpenCV (for image processing)
